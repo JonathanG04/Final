@@ -1,4 +1,3 @@
-# Final
+# Predicting Skateboard Sales
 
-
-Test update text
+This is my final project (so so so so.... Executive Summary)
